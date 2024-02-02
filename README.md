@@ -5,7 +5,7 @@
 This project harnesses the power of Python and Selenium to automate the process of data extraction from two target websites, ensuring accurate and up-to-date information retrieval.
 
 #### Customer Review Analysis: 
-The web scraper collects customer reviews and ratings for hotels located in Morocco from TripAdvisor. The gathered data is then analyzed to gain insights into customer sentiments and preferences, helping businesses make informed decisions.
+The web scraper collects customer reviews and ratings for hotels located in Morocco from TripAdvisor, the gathered data is then analyzed to gain insights into customer sentiments and preferences, helping businesses make informed decisions.
 
 ![reviews](https://github.com/WailBouhadda/Customers-Review-Analysis-And-Movies-Earning-Comparison-Web-Scraping/assets/47559086/4b81137e-781c-49f3-b8f6-7336c0363b04)
 
